@@ -289,7 +289,7 @@ section{
         width: 0%;
     }
     100%{
-        width: 90%;
+        width: 75%;
     }
 }
 
@@ -330,7 +330,7 @@ section{
         width: 0%;
     }
     100%{
-        width: 70%;
+        width: 60%;
     }
 }
   .skills .content .col-right .bar .mysql:before{
@@ -343,7 +343,20 @@ section{
         width: 0%;
     }
     100%{
-        width: 80%;
+        width: 60%;
+    }
+}
+  .skills .content .col-right .bar .react:before{
+    width: 80%;
+    background: #0c73b8;
+    animation: react 3s ;
+  }
+  @keyframes react{
+    0%{
+        width: 0%;
+    }
+    100%{
+        width: 60%;
     }
 }
   
