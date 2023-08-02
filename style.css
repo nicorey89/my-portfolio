@@ -279,7 +279,7 @@ section{
     border-radius: 4px;
   }
   .skills .content .col-right .bar .html:before{
-    width: 90%;
+    width: 75%;
     background: #0c73b8;
     animation: html 3s ;
     
@@ -321,7 +321,7 @@ section{
     }
 }
   .skills .content .col-right .bar .node:before{
-    width: 70%;
+    width: 60%;
     background: #0c73b8;
     animation: node 3s ;
   }
@@ -334,7 +334,7 @@ section{
     }
 }
   .skills .content .col-right .bar .mysql:before{
-    width: 80%;
+    width: 60%;
     background: #0c73b8;
     animation: mysql 3s ;
   }
@@ -347,7 +347,7 @@ section{
     }
 }
   .skills .content .col-right .bar .react:before{
-    width: 80%;
+    width: 60%;
     background: #0c73b8;
     animation: react 3s ;
   }
